@@ -1,4 +1,4 @@
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
+<!-- Update YOUR_PORTFOLIO_LINK with your actual portfolio URL before publishing -->
 
 <div align="center">
 
