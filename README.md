@@ -1,12 +1,10 @@
-<!-- Update YOUR_PORTFOLIO_LINK with your actual portfolio URL before publishing -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Hasan+👋;Mechatronics+Engineer+🤖;UI+Enthusiast+🎨;React+%26+Next.js+Learner+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Hasan+👋;Mechatronics+Engineering+Student+🤖;React+%26+Next.js+Learner+⚡)](https://git.io/typing-svg)
 
 <br/>
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <br/>
 
@@ -18,88 +16,105 @@
 
 ---
 
-## 🤖 About Me
+<div align="center">
+
+### 🎮 Player Card: Hasan
+
+</div>
 
 ```js
 const hasan = {
-  "🎓 degree":            "Mechatronics Engineering",
-  "❤️  passion":          "Building cool User Interfaces",
   "📍 location":          "Bangladesh 🇧🇩",
-  "📚 currentlyLearning": ["React ⚛️", "Next.js 🚀", "Tailwind CSS 🎨"],
+  "📚 currentlyLearning": ["React ⚛️", "Next.js 🚀"],
   "🎯 goal":              "Bridge the gap between Engineering & Design",
-  "⚡ funFact":           "I debug circuits AND CSS — double the fun, double the pain 😄",
+  "⚡ funFact":           "I debug circuits AND CSS, so bugs fear me in two domains 😄",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 🌱 Currently Learning
+### 🧰 Toolbox
+
+</div>
+
+**🌱 Currently Learning**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 💻 Languages & Tools I Know
+**💻 Languages & Tools I Know**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### ⚙️ Engineering Side
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+### 📊 Live GitHub Snapshot
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=t4snimul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4snimul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=t4snimul&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=T4snimul&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4snimul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=T4snimul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+<div align="center">
+
+### 🚀 Quest Log
+
+</div>
 
 - ⚛️ Building **React** projects to sharpen my frontend skills
 - 🌐 Exploring **Next.js** for full-stack web development
-- 🤖 Combining **Mechatronics + Web Dev** for unique, one-of-a-kind projects
 - 🎨 Obsessed with making UIs that are **functional and beautiful**
 - 🔍 Always curious, always building — the journey never stops!
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+### 🐍 Contribution Snake
+
+</div>
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/t4snimul/t4snimul/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/T4snimul/T4snimul/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
+
+### 🤝 Ping Me Here
+
+</div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnimul-hasan-2b94223b6)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/t4snimul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.tasnimul@gmail.com)
 
 </div>
