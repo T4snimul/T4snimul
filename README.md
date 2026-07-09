@@ -4,7 +4,7 @@
 
 Mechatronics Engineering Student
 
-Currently learning **Next.js**, and modern web development.
+Currently learning **Next.js**, modern web development and object oriented programming with C++.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=t4snimul&style=flat-square)](https://github.com/T4snimul)
 [![Followers](https://img.shields.io/github/followers/t4snimul?style=social)](https://github.com/T4snimul)
