@@ -2,7 +2,7 @@
 
 # Hasan
 
-Mechatronics Engineering Student • Frontend Developer
+Mechatronics Engineering Student
 
 Currently learning **Next.js**, and modern web development.
 
