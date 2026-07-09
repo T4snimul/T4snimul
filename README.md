@@ -4,7 +4,7 @@
 
 Mechatronics Engineering Student
 
-Currently learning **Next.js**, modern web development and object oriented programming with **C++**.
+Currently learning modern web development with **Next.js** and object oriented programming with **C++**.
 
 <div align="center">
 
