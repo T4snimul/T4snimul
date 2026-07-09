@@ -1,13 +1,18 @@
 <div align="center">
 
-# Hasan
+# Tasnimul Hasan
 
 Mechatronics Engineering Student
 
 Currently learning **Next.js**, modern web development and object oriented programming with C++.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=t4snimul&style=flat-square)](https://github.com/T4snimul)
-[![Followers](https://img.shields.io/github/followers/t4snimul?style=social)](https://github.com/T4snimul)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnimul-hasan-2b94223b6)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/t4snimul)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/__tasnimulhasan)
+
+</div>
 
 </div>
 
@@ -28,10 +33,3 @@ Currently learning **Next.js**, modern web development and object oriented progr
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnimul-hasan-2b94223b6)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/t4snimul)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello.tasnimul@gmail.com)
-
-</div>
